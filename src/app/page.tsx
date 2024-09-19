@@ -1,8 +1,8 @@
-import Questao1 from "./page/Questao1";
-import Questao2 from "./page/Questao2";
-import Questao3 from "./page/Questao3";
-import Questao4 from "./page/Questao4";
-import Questao5 from "./page/Questao5";
+import Questao1 from "./questoes/Questao1";
+import Questao2 from "./questoes/Questao2";
+import Questao3 from "./questoes/Questao3";
+import Questao4 from "./questoes/Questao4";
+import Questao5 from "./questoes/Questao5";
 
 export default function Home() {
   return (
