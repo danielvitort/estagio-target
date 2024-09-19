@@ -128,7 +128,7 @@ const faturamentoData: FaturamentoDia[] = [
         dia: 30,
         valor: 8414.61
     }
-];
+]
 
 const Questao3 = () => {
     const [menorValor, setMenorValor] = useState<number | null>(null);
